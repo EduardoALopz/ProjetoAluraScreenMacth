@@ -1,4 +1,4 @@
-﻿package Br.Com.Alura.ScreenMatch.Calculos;
+package Br.Com.Alura.ScreenMatch.Calculos;
 import Br.Com.Alura.ScreenMatch.Modelos.Filme;
 import Br.Com.Alura.ScreenMatch.Modelos.Serie;
 import Br.Com.Alura.ScreenMatch.Modelos.Titulo;

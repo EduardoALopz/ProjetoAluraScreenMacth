@@ -1,6 +1,6 @@
-﻿package Br.Com.Alura.ScreenMatch.Modelos;
+package Br.Com.Alura.ScreenMatch.Modelos;
 // Classe Base Para Representar Um Título (Filme ou Série)
-public class Titulo {
+public class Titulo implements Comparable<Titulo>{
     // Armazena O Nome Do Título
     private String nome;
     // Armazena O Ano De Lançamento Do Título
@@ -67,5 +67,10 @@ public class Titulo {
     // Método Que Calcula E Retorna A Média De Avaliações
     public double pegaMedia(){
         return somaDasAvaliacoes / totalDeAvaliacoes;
+    }
+
+    @Override
+    public int compareTo(Titulo OutroTitulo) {
+        return this.getNome().compareTo(OutroTitulo.getNome());
     }
 }

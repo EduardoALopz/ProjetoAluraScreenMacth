@@ -1,4 +1,4 @@
-﻿package Br.Com.Alura.ScreenMatch.Modelos;
+package Br.Com.Alura.ScreenMatch.Modelos;
 // Classe Que Representa Uma Série De Televisão
 public class Serie extends Titulo {
     // Armazena A Quantidade De Temporadas Da Série

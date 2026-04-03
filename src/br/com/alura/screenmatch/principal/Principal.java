@@ -1,4 +1,4 @@
-﻿package Br.Com.Alura.ScreenMatch.Principal;
+package Br.Com.Alura.ScreenMatch.Principal;
 import java.util.ArrayList;
 import Br.Com.Alura.ScreenMatch.Calculos.CalculadoraDeTempo;
 import Br.Com.Alura.ScreenMatch.Calculos.FiltroRecomendacao;

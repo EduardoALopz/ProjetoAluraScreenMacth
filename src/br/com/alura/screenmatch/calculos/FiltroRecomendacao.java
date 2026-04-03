@@ -1,4 +1,4 @@
-﻿package Br.Com.Alura.ScreenMatch.Calculos;
+package Br.Com.Alura.ScreenMatch.Calculos;
 // Classe Que Filtra E Exibe Recomendações Baseadas Na Classificação De Títulos
 public class FiltroRecomendacao {
     // Armazena Uma Mensagem De Recomendação (Pode Ser Utilizado Futuramente)

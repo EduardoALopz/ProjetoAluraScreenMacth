@@ -1,4 +1,4 @@
-﻿package Br.Com.Alura.ScreenMatch.Modelos;
+package Br.Com.Alura.ScreenMatch.Modelos;
 import Br.Com.Alura.ScreenMatch.Calculos.Classificavel;
 // Classe Que Representa Um Episódio De Uma Série
 public class Episodio implements Classificavel {

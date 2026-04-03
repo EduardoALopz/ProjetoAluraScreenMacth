@@ -1,4 +1,4 @@
-﻿package Br.Com.Alura.ScreenMatch.Modelos;
+package Br.Com.Alura.ScreenMatch.Modelos;
 import Br.Com.Alura.ScreenMatch.Calculos.Classificavel;
 public class Filme extends Titulo implements Classificavel {
     // Armazena O Nome Do Diretor Do Filme

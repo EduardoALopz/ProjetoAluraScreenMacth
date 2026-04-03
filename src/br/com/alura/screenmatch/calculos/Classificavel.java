@@ -1,4 +1,4 @@
-﻿package Br.Com.Alura.ScreenMatch.Calculos;
+package Br.Com.Alura.ScreenMatch.Calculos;
 // Interface Que Define O Contrato Para Classes Que Podem Ser Classificadas
 public interface Classificavel {
     // Método Que Deve Ser Implementado Por Classes Que Desejam Ser Classificáveis
