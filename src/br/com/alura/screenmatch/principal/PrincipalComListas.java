@@ -3,8 +3,9 @@ import Br.Com.Alura.ScreenMatch.Modelos.Filme;
 import Br.Com.Alura.ScreenMatch.Modelos.Serie;
 import Br.Com.Alura.ScreenMatch.Modelos.Titulo;
 import java.util.ArrayList;
-import java.util.Collection;
 import java.util.Collections;
+import java.util.Comparator;
+import java.util.List;
 
 // Classe Principal Que Executa O Programa Com Listas
 public class PrincipalComListas {
@@ -22,7 +23,7 @@ public class PrincipalComListas {
 
 
         // Cria Uma Nova Lista De Títulos (Polimorfismo)
-        ArrayList<Titulo> ListadeFilmes = new ArrayList<>();
+        List<Titulo> ListadeFilmes = new ArrayList<>();
         // Adiciona O Primeiro Filme À Lista
         ListadeFilmes.add(OPoderosoChefao);
         // Adiciona A Série À Lista
@@ -47,6 +48,10 @@ public class PrincipalComListas {
         Collections.sort(BuscaPorArtista);
         System.out.println(BuscaPorArtista);
         Collections.sort(ListadeFilmes);
+        System.out.println(ListadeFilmes);
+
+        ListadeFilmes.sort(Comparator.comparing(Titulo::getAnoDeLancamento));
+        System.out.println("Ordening For Relast Year");
         System.out.println(ListadeFilmes);
 
     }

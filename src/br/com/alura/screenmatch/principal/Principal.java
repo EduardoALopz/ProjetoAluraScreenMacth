@@ -1,8 +1,4 @@
 package Br.Com.Alura.ScreenMatch.Principal;
-import java.util.ArrayList;
-import Br.Com.Alura.ScreenMatch.Calculos.CalculadoraDeTempo;
-import Br.Com.Alura.ScreenMatch.Calculos.FiltroRecomendacao;
-import Br.Com.Alura.ScreenMatch.Modelos.Episodio;
 import Br.Com.Alura.ScreenMatch.Modelos.Filme;
 import Br.Com.Alura.ScreenMatch.Modelos.Serie;
 // Classe Principal Que Executa O Programa

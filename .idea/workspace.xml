@@ -3,16 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="9119bddf-c78d-4ffe-8a8a-743d90974634" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ProjetoAluraScreenMatch/br/com/alura/screenmatch/calculos/CalculadoraDeTempo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ProjetoAluraScreenMatch/br/com/alura/screenmatch/calculos/Classificavel.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ProjetoAluraScreenMatch/br/com/alura/screenmatch/calculos/FiltroRecomendacao.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ProjetoAluraScreenMatch/br/com/alura/screenmatch/modelos/Episodio.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ProjetoAluraScreenMatch/br/com/alura/screenmatch/modelos/Filme.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ProjetoAluraScreenMatch/br/com/alura/screenmatch/modelos/Serie.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ProjetoAluraScreenMatch/br/com/alura/screenmatch/modelos/Titulo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ProjetoAluraScreenMatch/br/com/alura/screenmatch/principal/Principal.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ProjetoAluraScreenMatch/br/com/alura/screenmatch/principal/PrincipalComListas.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Br/Com/Alura/ScreenMatch/Modelos/Titulo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Br/Com/Alura/ScreenMatch/Modelos/Titulo.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -76,7 +66,7 @@
     "project.structure.last.edited": "SDKs",
     "project.structure.proportion": "0.0",
     "project.structure.side.proportion": "0.0",
-    "settings.editor.selected.configurable": "com.github.copilot.settings.completions.CompletionsConfigurable",
+    "settings.editor.selected.configurable": "preferences.pluginManager",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -174,7 +164,8 @@
       <workItem from="1774870727163" duration="10806000" />
       <workItem from="1774902545169" duration="5106000" />
       <workItem from="1774994786016" duration="39000" />
-      <workItem from="1775227883040" duration="5434000" />
+      <workItem from="1775227883040" duration="5753000" />
+      <workItem from="1775255072967" duration="2518000" />
     </task>
     <servers />
   </component>
