@@ -1,4 +1,7 @@
 package Br.Com.Alura.ScreenMatch.Modelos;
+
+import com.google.gson.annotations.SerializedName;
+
 // Classe Base Para Representar Um Título (Filme ou Série)
 public class Titulo implements Comparable<Titulo>{
     // Armazena O Nome Do Título

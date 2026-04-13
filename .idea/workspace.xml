@@ -1,8 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="9119bddf-c78d-4ffe-8a8a-743d90974634" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/br/com/alura/screenmatch/principal/PrincipalComBusch.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ProjetoAluraScreenMatch/br/com/alura/screenmatch/principal/PrincipalComListas.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ProjetoAluraScreenMatch/br/com/alura/screenmatch/principal/PrincipalComListas.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -33,6 +38,10 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="McpProjectServerCommands">
+    <commands />
+    <urls />
+  </component>
   <component name="ProblemsViewState">
     <option name="selectedTabId" value="ProjectErrors" />
   </component>
@@ -52,21 +61,31 @@
     "Application.Br.Com.Alura.ScreenMatch.Principal.Principal.executor": "Run",
     "Application.Br.Com.Alura.ScreenMatch.Principal.PrincipalComListas.executor": "Run",
     "Application.Principal.executor": "Run",
+    "Application.PrincipalComBusca.executor": "Run",
+    "Application.PrincipalComBusch.executor": "Run",
     "Application.PrincipalComListas.executor": "Run",
     "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.MCP Project settings loaded": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
     "RunOnceActivity.git.unshallow": "true",
     "RunOnceActivity.typescript.service.memoryLimit.init": "true",
     "codeWithMe.voiceChat.enabledByDefault": "false",
+    "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1": "true",
     "git-widget-placeholder": "main",
+    "junie.onboarding.icon.badge.shown": "true",
     "kotlin-language-version-configured": "true",
     "last_opened_file_path": "C:/Users/deved/Downloads/ProjetoAluraScreenMatch/src/Outros",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
     "project.structure.last.edited": "SDKs",
     "project.structure.proportion": "0.0",
     "project.structure.side.proportion": "0.0",
     "settings.editor.selected.configurable": "preferences.pluginManager",
+    "to.speed.mode.migration.done": "true",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -78,7 +97,7 @@
       <recent name="C:\Users\deved\Downloads\ProjetoAluraScreenMatch\src\Outros" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Br.Com.Alura.ScreenMatch.Principal.PrincipalComListas">
+  <component name="RunManager" selected="Application.PrincipalComBusch">
     <configuration name="Br.Com.Alura.ScreenMatch.Principal.Principal" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Br.Com.Alura.ScreenMatch.Principal.Principal" />
       <module name="ProjetoAluraScreenMatch" />
@@ -118,6 +137,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="PrincipalComBusch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Br.Com.Alura.ScreenMatch.Principal.PrincipalComBusch" />
+      <module name="ProjetoAluraScreenMatch" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Br.Com.Alura.ScreenMatch.Principal.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="PrincipalComListas" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="br.com.alura.screenmatch.principal.PrincipalComListas" />
       <module name="ProjetoAluraScreenMatch" />
@@ -133,6 +165,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.PrincipalComBusch" />
         <item itemvalue="Application.Br.Com.Alura.ScreenMatch.Principal.PrincipalComListas" />
         <item itemvalue="Application.Br.Com.Alura.ScreenMatch.Principal.Principal" />
         <item itemvalue="Application.Principal" />
@@ -166,6 +199,12 @@
       <workItem from="1774994786016" duration="39000" />
       <workItem from="1775227883040" duration="5753000" />
       <workItem from="1775255072967" duration="2518000" />
+      <workItem from="1775567090268" duration="1625000" />
+      <workItem from="1775601128016" duration="1011000" />
+      <workItem from="1775848927882" duration="10000" />
+      <workItem from="1775916194247" duration="1648000" />
+      <workItem from="1775945681779" duration="128000" />
+      <workItem from="1776084271567" duration="1060000" />
     </task>
     <servers />
   </component>

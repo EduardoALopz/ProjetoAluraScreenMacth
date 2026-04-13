@@ -1,0 +1,12 @@
+{
+    "java.project.sourcePaths": ["src", "Code"],
+    "java.project.outputPath": "Out/production/ProjetoAluraScreenMatch",
+    "java.project.referencedLibraries": ["lib/**/*.jar"],
+    "java.configuration.runtimes": [
+        {
+            "name": "JavaSE-17",
+            "path": "C:\\Users\\deved\\.jdks\\ms-17.0.18",
+            "default": true
+        }
+    ]
+}
